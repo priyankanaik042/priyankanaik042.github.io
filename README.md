@@ -1,3 +1,3 @@
 # personal-website
 
-www.priyankanaik.com
+www.priyankanaik042.github.io
