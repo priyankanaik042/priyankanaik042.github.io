@@ -123,6 +123,11 @@ button, button:focus, a, a:hover, a:focus, input, input:active, input:focus, tex
     letter-spacing: 1.5px;
     font-weight: bold;
 }
+.main-para-highlights {
+    color: rgb(79, 79, 79);
+    letter-spacing: 1.5px;
+    font-weight: bold;
+}
 .center {
     text-align: center;
 }
@@ -876,6 +881,10 @@ span.bar {
 #side {
     background: rgb(46, 180, 91);
     border: rgb(46, 180, 91);
+}
+#highlights {
+    background: rgb(79, 79, 79);
+    border: rgb(79, 79, 79);
 }
 .experiences .timeline .timeline-block .content {
     width: 44%;
